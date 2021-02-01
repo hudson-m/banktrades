@@ -1,6 +1,6 @@
-﻿using System;
+﻿using BankTrade;
+using System;
 using System.Collections.Generic;
-using BankTrade;
 
 namespace ConsoleUi
 {
